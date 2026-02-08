@@ -1,4 +1,6 @@
-## Hi there! I am Surya ..!👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Surya;" alt="Typing SVG"/>
+</h1>
 
 # 💫 About Me:-
 🔭 I’m currently working on<br>AI-powered applications, Data Science based projects , and Langchain Projects and BAckend Developement<br><br>🤝 I’m looking to collaborate on<br>Open-source AI tools, Data Science Projects and Highly Recommended Database Projects<br><br>🧠 I’m looking for help with<br>Advanced Data Science Problems , multi-agent workflows, and scalable AI architectures<br><br>🌱 I’m currently learning<br>LangGraph, Vector Databases (Qdrant), MLOps, and system design for AI<br><br>💬 Ask me about<br>Python, AI/ML, R, Pandas, Git, Vs code , pycharm, Leetcode , Problem solving ,  Vercel, Deplyoment , Data SCience GitHub projects, and clean documentation<br><br>⚡ Fun fact<br>I love turning complex AI concepts into simple, developer-friendly solutions 🚀
