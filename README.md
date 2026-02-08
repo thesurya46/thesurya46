@@ -21,7 +21,15 @@ const surya46 = {
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__.thesurya.__?igsh=Z2p4cXFzcTA3OG1p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryasnata-panigrahi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/settings/  ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32063471/surya-snata-panigrahi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__thsurya__) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Surya-Snata-Panigrahi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.suryasnata@gmail.com) 
+<div align="center">
+  <a href="https://vercel.com/account/settings" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
+  <a href="www.linkedin.com/in/suryasnata-panigrahi" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
+  <a href="https://x.com/__thsurya__" title="X (Twitter)"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.instagram.com/__.thesurya.__?igsh=Z2p4cXFzcTA3OG1p" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10"/></a>
+  <a href="https://stackoverflow.com/users/32063471/surya-snata-panigrahi"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&border_radius=10"/></a>
+  <a href="https://codepen.io/Surya-Snata-Panigrahi"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&border_radius=10"/></a>
+  <a href="https://www.facebook.com/share/1AjNT3bCHb/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&border_radius=10"/></a>
+</div>
 
 ## 🛠️ Technologies & Tools
 <div align="center">
@@ -29,9 +37,13 @@ const surya46 = {
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thesurya46&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thesurya46&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesurya46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=highcontrast&hide_border=true" width="60%"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thesurya46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
