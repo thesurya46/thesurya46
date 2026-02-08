@@ -26,8 +26,22 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thesurya46&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating :
+  ## 💰 You can help me by Donating 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://studio.buymeacoffee.com/my-account/edit-profile) 
+
+  ### 🤝 Connect with the Developer 
+<p align="center">
+<a href="www.linkedin.com/in/suryasnata-panigrahi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:work.suryasnata@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Suryasnata?label=Follow%20Surya&style=social" />
+</p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
