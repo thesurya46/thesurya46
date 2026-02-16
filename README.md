@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6842FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Surya;" alt="Typing SVG"/>
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" />
+</p>
+
+
 ## 👨🏻‍💻 This is Me
 <img src="https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/refs/heads/main/assets/raj.png" width="270px" align="right" alt="Coding illustration">
 
