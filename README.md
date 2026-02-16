@@ -88,6 +88,14 @@ const surya46 = {
   <img src="https://img.shields.io/github/followers/Suryasnata?label=Follow%20Surya&style=social" />
 </p>
 
+<p align="center">
+  <i>💙 Crafted with Passion, Precision & Coffee by <b>SUrya Snata Panigrahi</b> ☕</i>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Footer GIF"/>
+</div>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
