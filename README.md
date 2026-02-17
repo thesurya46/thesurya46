@@ -1,11 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=940&lines=Hey+there+👋,+I'm+Surya+Snata+Panigrahi;|+Data+Enthusiast+🤖+|+Open+Source+Contributor🌍;Building+the+Future,+One+Commit+at+a+Time 🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=940&lines=Hey+there+👋,+I'm+Surya+Snata+Panigrahi;Software+Engineer+⚙️+|+Data+Enthusiast+🤖+|;Building+the+Future,+One+Commit+at+a+Time🚀" alt="Typing SVG" />
 </div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  <span style="color:#00BFFF;">Surya Snata Panigrahi</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h3 align="center">🚀 Full-Stack Software Developer | AI & Machine Learning | Data Enthusiast |</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="270" />
 </p>
 
+---
 
 ## 👨🏻‍💻 This is Me
 <img src="https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/refs/heads/main/assets/raj.png" width="270px" align="right" alt="Coding illustration">
