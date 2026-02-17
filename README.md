@@ -74,7 +74,7 @@ const surya46 = {
   ## 💰 You can help me by Donating 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://studio.buymeacoffee.com/my-account/edit-profile) 
 
-  ### 🤝 Connect with the Developer 
+  ## 🤝 Connect with the Developer 
 <p align="center">
 <a href="www.linkedin.com/in/suryasnata-panigrahi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:work.suryasnata@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
