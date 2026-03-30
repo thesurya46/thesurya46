@@ -17,7 +17,7 @@
 ---
 
 ## 👨🏻‍💻 This is Me :-
-<img src="https://raw.githubusercontent.com/rajtilak-2020/rajtilak-2020/refs/heads/main/assets/raj.png" width="270px" align="right" alt="Coding illustration">
+<img src="https://raw.githubusercontent.com/surya46/surya46/refs/heads/main/assets/raj.png" width="270px" align="right" alt="Coding illustration">
 
 ```javascript
 const surya46 = {
