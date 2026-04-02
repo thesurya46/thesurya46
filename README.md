@@ -94,7 +94,7 @@ const surya46 = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Suryasnata?label=Follow%20Surya&style=social" />
+  <img src="https://img.shields.io/github/followers/Suryasnata?label=Follow%90Surya&style=social" />
 </p>
 
 <p align="center">
