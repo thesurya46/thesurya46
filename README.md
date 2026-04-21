@@ -80,7 +80,7 @@ const surya46 = {
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360" alt="Collaboration"/>
 </p>
 
-  ## 💰 You can help me by Donating 
+  ## 💰 You can help me by Donating :
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://studio.buymeacoffee.com/my-account/edit-profile) 
 
   ## 🤝 Connect with the Developer :
