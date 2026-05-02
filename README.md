@@ -34,7 +34,7 @@ const surya46 = {
 🔭 I’m currently working on<br>AI-powered applications, Data Science based projects , and Langchain Projects and BAckend Developement<br><br>🤝 I’m looking to collaborate on<br>Open-source AI tools, Data Science Projects and Highly Recommended Database Projects<br><br>🧠 I’m looking for help with<br>Advanced Data Science Problems , multi-agent workflows, and scalable AI architectures<br><br>🌱 I’m currently learning<br>LangGraph, Vector Databases (Qdrant), MLOps, and system design for AI<br><br>💬 Ask me about<br>Python, AI/ML, R, Pandas, Git, Vs code , pycharm, Leetcode , Problem solving ,  Vercel, Deplyoment , Data SCience GitHub projects, and clean documentation<br><br>⚡ Fun fact<br>I love turning complex AI concepts into simple, developer-friendly solutions 🚀
 
 
-## 🌐 Socials:
+## 🌐 Socials:-
 <div align="center">
   <a href="https://vercel.com/account/settings" title="Portfolio"><img src="https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=web&logoColor=white&border_radius=10"/></a>
   <a href="www.linkedin.com/in/suryasnata-panigrahi" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10"/></a>
