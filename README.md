@@ -45,7 +45,7 @@ const surya46 = {
   <a href="https://www.facebook.com/share/1AjNT3bCHb/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&border_radius=10"/></a>
 </div>
 
-## 🛠️ Technologies & Tools :
+## 🛠️ Technologies & Tools :-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,python,cpp,arduino,html,css,react,nodejs,git,vscode&theme=dark" alt="Skills">
 </div>
