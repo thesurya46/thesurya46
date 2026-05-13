@@ -50,7 +50,7 @@ const surya46 = {
   <img src="https://skillicons.dev/icons?i=js,python,cpp,arduino,html,css,react,nodejs,git,vscode&theme=dark" alt="Skills">
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:-
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 
