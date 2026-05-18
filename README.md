@@ -59,7 +59,7 @@ const surya46 = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilak-2020&theme=highcontrast&hide_border=true" width="60%"/>
 </div>
 
-## 🏆 GitHub Trophies :
+## 🏆 GitHub Trophies :-
 ![](https://github-profile-trophy.vercel.app/?username=thesurya46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote :
