@@ -72,7 +72,7 @@ const surya46 = {
 [![](https://visitcount.itsvg.in/api?id=thesurya46&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🎨 Tech Vibes & Inspiration :-
+## 🎨 Tech Vibes & Inspiration :
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="360" alt="Coding Vibes"/>
