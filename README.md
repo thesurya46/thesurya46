@@ -23,7 +23,7 @@
 const surya46 = {
     Education: "BTech CSE - DatScience",
     Passion: ["Fullstack Development", "ML/DL", "DataScience"],
-    Focused: "True"
+    Focused: "True" 
 };
 ```
 <p align="left">
