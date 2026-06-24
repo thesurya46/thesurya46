@@ -97,7 +97,7 @@ const surya46 = {
 </p>
 
 <p align="center">
-  <i>💙 Crafted with Passion, Precision & Coffee by <b>SUrya Snata Panigrahi</b> ☕</i>
+  <i>💙 Crafted with Passion, Precision & Coffee by <b>Surya Snata Panigrahi</b> ☕</i>
 </p>
 
 <div align="center">
