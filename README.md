@@ -1,7 +1,7 @@
 <div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=30&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=940&lines=Hey+there+👋,+I'm+Surya+Snata+Panigrahi;Software+Engineer+⚙️+|+Data+Enthusiast+🤖+ |;Building+the+Future,+One+Commit+at+a+Time 🚀" alt="Typing SVG" />
 </div>
-
+ 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
   <span style="color:#00BFFF;">Surya Snata Panigrahi</span>
