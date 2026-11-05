@@ -19,7 +19,7 @@
 ## 👨🏻‍💻 This is Me :-
 
 ```javascript
-const surya46 = {
+const surya24 = {
     Education: "BTech CSE - DatScience",
     Passion: ["Fullstack Development", "ML/DL", "DataScience"],
     Focused: "True" 
